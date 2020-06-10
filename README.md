@@ -1,6 +1,6 @@
 # Corporate Messages Classification
 
-In this project, we aim at automating the Machine Learning workflow using an NLP pipeline that is applied on the corporate messages dataset.
+In this project, we aim at automating the Machine Learning workflow using an NLP pipeline that is applied to the corporate messages dataset.
 
 It is one of the free datasets that can be found on the Figure Eight platform <a href = "https://appen.com/resources/datasets/" >here.</a>
 
@@ -8,9 +8,9 @@ Our main goal is to classify the text message.
 
 ## Data
 
-Each row contains information about a social media post from different coorporations and contains a column for the category of the post.
+Each row contains information about a social media post from different corporations and contains a column for the category of the post.
 
-Posts categories are classified as Information, Action, Dialogue, or Exclude.
+Posts' categories are classified as Information, Action, Dialogue, or Exclude.
 
 	• Information: objective statements about the company or its activities.
 	
